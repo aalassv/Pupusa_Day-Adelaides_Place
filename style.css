@@ -113,3 +113,9 @@ h1 {
 	margin: 0 5px;
 }
 
+.bordercard {
+overflow: hidden;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 0 20px 8px #d0d0d0;
+}
