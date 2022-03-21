@@ -1,7 +1,7 @@
 
 # Project Pupusa day
 
-This landing page is created to demonstrate a short variety of food from El Salvador.
+This landing page has been created to demonstrate a short variety of food from El Salvador.
 
 
 ## Demo
