@@ -6,7 +6,7 @@ This landing page has been created to demonstrate a short variety of food from E
 
 ## Demo
 
-https://friendly-goodall-61a6d6.netlify.app/
+https://monumental-belekoy-397df7.netlify.app/
 
 
 ## FAQ
